@@ -6,6 +6,6 @@ I have download the dataset from the kaggle and I used the Multiple linear regre
 Evaluation Metric :  Root-Mean-Squared-Error (RMSE):0.459107
 
 ## Diabetes prediction using SVM
- Datasets grain from kaggle and I have used 80% data for model training and 20% form testing.
+ Datasets grained from kaggle and I have used 80% data for model training and 20% form testing.
  Model has the accuracy of 84.24 for both testing and training accuracy 
  
